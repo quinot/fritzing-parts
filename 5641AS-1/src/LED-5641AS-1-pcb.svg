@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="50.299999mm"
+   height="19mm"
+   viewBox="0 0 142.58267 53.858267"
+   id="svg62"
+   sodipodi:docname="LED-5641AS-1-pcb.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata68">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs66" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1918"
+     inkscape:window-height="1001"
+     id="namedview64"
+     showgrid="false"
+     units="mm"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-page="true"
+     inkscape:zoom="8.9896397"
+     inkscape:cx="65.805261"
+     inkscape:cy="29.560044"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg62" />
+  <g
+     id="silkscreen"
+     inkscape:label="silkscreen"
+     style="display:inline">
+    <rect
+       y="-2.7934398e-06"
+       x="0"
+       height="53.858265"
+       width="142.58267"
+       id="rect4545"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:label="copper1"
+     id="copper1"
+     style="display:inline">
+    <rect
+       inkscape:label="connector0"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       y="51.31134"
+       width="3.96"
+       height="3.96"
+       id="connector0pinn"
+       x="-50.509136"
+       transform="rotate(-90)" />
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-48.529133"
+       id="circle20"
+       cy="53.29134"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector11"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-5.3291345"
+       id="connector11pinn"
+       cy="53.29134"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector1"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-48.529133"
+       id="connector1pinn"
+       cy="60.491341"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector10"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-5.3291345"
+       id="connector10pinn"
+       cy="60.491341"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector2"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-48.529133"
+       id="connector2pinn"
+       cy="67.691338"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector9"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-5.3291345"
+       id="connnector9pinn"
+       cy="67.691338"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector3"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-48.529133"
+       id="connector3pinn"
+       cy="74.891335"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector8"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-5.3291345"
+       id="connector8pinn"
+       cy="74.891335"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector4"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-48.529133"
+       id="connector4pinn"
+       cy="82.091331"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector7"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-5.3291345"
+       id="connector7pinn"
+       cy="82.091331"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector5"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-48.529133"
+       id="connector5pinn"
+       cy="89.291336"
+       r="1.98"
+       transform="rotate(-90)" />
+    <circle
+       inkscape:label="connector6"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       cx="-5.3291345"
+       id="connector6pinn"
+       cy="89.291336"
+       r="1.98"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     id="copper0"
+     inkscape:label="copper0">
+    <rect
+       x="-50.509132"
+       id="square"
+       height="3.96"
+       width="3.96"
+       y="51.311337"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="53.291336"
+       id="connector0pin"
+       cx="-48.529133"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="53.291336"
+       id="connector11pin"
+       cx="-5.3291335"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="60.491337"
+       id="connector1pin"
+       cx="-48.529133"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="60.491337"
+       id="connector10pin"
+       cx="-5.3291335"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="67.691338"
+       id="connector2pin"
+       cx="-48.529133"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="67.691338"
+       id="connector9pin"
+       cx="-5.3291335"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="74.891342"
+       id="connector3pin"
+       cx="-48.529133"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="74.891342"
+       id="connector8pin"
+       cx="-5.3291335"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="82.091339"
+       id="connector4pin"
+       cx="-48.529133"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="82.091339"
+       id="connector7pin"
+       cx="-5.3291335"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="89.291344"
+       id="connector5pin"
+       cx="-48.529133"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+    <circle
+       r="1.98"
+       cy="89.291344"
+       id="connector6pin"
+       cx="-5.3291335"
+       style="fill:none;stroke:#ffbf00;stroke-width:1.44000006"
+       transform="rotate(-90)" />
+  </g>
+</svg>

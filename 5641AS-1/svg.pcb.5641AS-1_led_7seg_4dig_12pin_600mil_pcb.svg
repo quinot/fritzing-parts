@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0in"  width="50.299999mm" version="1.2" id="svg62" viewBox="0 0 142.58267 53.858267" y="0in" height="19mm" gorn="0">
+    <desc >
+        <referenceFile >LED-5641AS-1-pcb-munged.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata68">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs66"/>
+    <g style="display:inline"  id="silkscreen" gorn="0.3">
+        <rect style="display:inline;opacity:1;stroke-miterlimit:10;stroke-dasharray:none;" x="0"  width="142.58267" fill="none" stroke-opacity="1" id="rect4545" y="-2.7934398e-06" height="53.858265" stroke-width="1" fill-opacity="1" stroke="#ffffff" gorn="0.3.0"/>
+    </g>
+    <g style="display:inline"  id="copper1" gorn="0.4">
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <rect x="-50.509136"  width="3.96" fill="none" id="connector0pin" y="51.31134" height="3.96" stroke-width="1.44000006" stroke="#ffbf00" gorn="0.4.0.0.0.0.0.0.0"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="circle20" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.4.1.0.0.0.0.0.0" cy="53.29134"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector11pin" stroke-width="1.44000006" cx="-5.3291345" r="1.98" stroke="#ffbf00" gorn="0.4.2.0.0.0.0.0.0" cy="53.29134"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector1pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.4.3.0.0.0.0.0.0" cy="60.491341"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector10pin" stroke-width="1.44000006" cx="-5.3291345" r="1.98" stroke="#ffbf00" gorn="0.4.4.0.0.0.0.0.0" cy="60.491341"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector2pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.4.5.0.0.0.0.0.0" cy="67.691338"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connnector9pin" stroke-width="1.44000006" cx="-5.3291345" r="1.98" stroke="#ffbf00" gorn="0.4.6.0.0.0.0.0.0" cy="67.691338"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector3pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.4.7.0.0.0.0.0.0" cy="74.891335"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector8pin" stroke-width="1.44000006" cx="-5.3291345" r="1.98" stroke="#ffbf00" gorn="0.4.8.0.0.0.0.0.0" cy="74.891335"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector4pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.4.9.0.0.0.0.0.0" cy="82.091331"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector7pin" stroke-width="1.44000006" cx="-5.3291345" r="1.98" stroke="#ffbf00" gorn="0.4.10.0.0.0.0.0.0" cy="82.091331"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector5pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.4.11.0.0.0.0.0.0" cy="89.291336"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector6pin" stroke-width="1.44000006" cx="-5.3291345" r="1.98" stroke="#ffbf00" gorn="0.4.12.0.0.0.0.0.0" cy="89.291336"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  id="copper0" gorn="0.5">
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <rect x="-50.509132"  width="3.96" fill="none" id="square" height="3.96" y="51.311337" stroke-width="1.44000006" stroke="#ffbf00" gorn="0.5.0.0.0.0.0.0.0"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector0pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.5.1.0.0.0.0.0.0" cy="53.291336"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector11pin" stroke-width="1.44000006" cx="-5.3291335" r="1.98" stroke="#ffbf00" gorn="0.5.2.0.0.0.0.0.0" cy="53.291336"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector1pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.5.3.0.0.0.0.0.0" cy="60.491337"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector10pin" stroke-width="1.44000006" cx="-5.3291335" r="1.98" stroke="#ffbf00" gorn="0.5.4.0.0.0.0.0.0" cy="60.491337"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector2pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.5.5.0.0.0.0.0.0" cy="67.691338"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector9pin" stroke-width="1.44000006" cx="-5.3291335" r="1.98" stroke="#ffbf00" gorn="0.5.6.0.0.0.0.0.0" cy="67.691338"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector3pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.5.7.0.0.0.0.0.0" cy="74.891342"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector8pin" stroke-width="1.44000006" cx="-5.3291335" r="1.98" stroke="#ffbf00" gorn="0.5.8.0.0.0.0.0.0" cy="74.891342"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector4pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.5.9.0.0.0.0.0.0" cy="82.091339"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector7pin" stroke-width="1.44000006" cx="-5.3291335" r="1.98" stroke="#ffbf00" gorn="0.5.10.0.0.0.0.0.0" cy="82.091339"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector5pin" stroke-width="1.44000006" cx="-48.529133" r="1.98" stroke="#ffbf00" gorn="0.5.11.0.0.0.0.0.0" cy="89.291344"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="rotate(-90)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <circle  fill="none" id="connector6pin" stroke-width="1.44000006" cx="-5.3291335" r="1.98" stroke="#ffbf00" gorn="0.5.12.0.0.0.0.0.0" cy="89.291344"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
